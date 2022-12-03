@@ -1,0 +1,30 @@
+header{
+  display: flex;
+  justify-content: right;
+  margin: 0 0 40px 0;
+  width: 100%;
+  background-color: #E0696E;
+  z-index: 1;
+}
+@media screen  and (min-width: 768px) {
+  header > nav > a{
+    margin: 10px 30px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fafaff;
+  }
+  header > nav > a:hover{
+    opacity: 0.5;
+  }
+}
+@media screen and (max-width: 767px) {
+  .header-wrapper > a{
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fafaff;
+  }
+  .header-wrapper > a:hover{
+    opacity: 0.5;
+  }
+}
