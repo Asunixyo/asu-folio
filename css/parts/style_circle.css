@@ -1,7 +1,7 @@
 .distorted-circle{
   width: 80%;
-  background: -moz-linear-gradient(left, #FF99FF, #FFCCFF);
-  background: -webkit-linear-gradient(left, #FF99FF, #FFCCFF);
-  background: linear-gradient(to right, #FF99FF, #FFCCFF);
-  border-radius:85% 15% 70% 30% / 18% 20% 80% 82% ;
+  background: -moz-linear-gradient(left, #FFCFCF, #FFB5BF);
+  background: -webkit-linear-gradient(left, #FFCFCF, #FFB5BF);
+  background: linear-gradient(to right, #FFCFCF, #FFB5BF);
+  border-radius:66% 13% 24% 29% / 74% 18% 58% 21%;
 }
