@@ -1,8 +1,7 @@
 footer{
-  display: flex;
-  bottom: 0;
-  left: 0;
-  justify-content: space-between;
+}
+.page-footer{
+  background-color: #FFD299;
 }
 .footer-sns-wrapper{  
   display: flex;
