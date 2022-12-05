@@ -3,8 +3,10 @@ header{
   justify-content: right;
   margin: 0 0 40px 0;
   width: 100%;
-  background-color: #E0696E;
   z-index: 1;
+}
+.header-wrapper{
+  background-color: #FFD299;
 }
 @media screen  and (min-width: 768px) {
   header > nav > a{
