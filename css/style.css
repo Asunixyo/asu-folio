@@ -77,9 +77,10 @@ h1:after {
   }
   /* about */
   .about-img-wrapper{
+    width: 320px;
     display: flex;
     justify-content: right;
-    padding-right: 20px;
+    padding-right: 40px;
   }
   .about-img-wrapper > img{
     border-radius: 50%;
@@ -87,6 +88,7 @@ h1:after {
   }
   .about-wrapper{
     display: flex;
+    padding-bottom: 40px;
   }
   /* hobby */
   .hobby-wrapper > div:nth-child(even) > p{
